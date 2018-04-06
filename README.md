@@ -1,1 +1,3 @@
-# tcc_speaker_recognition
+# final course assignment
+
+...
